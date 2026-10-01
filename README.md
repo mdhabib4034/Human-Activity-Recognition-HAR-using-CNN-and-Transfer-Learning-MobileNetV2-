@@ -1,0 +1,1 @@
+# Human-Activity-Recognition-HAR-using-CNN-and-Transfer-Learning-MobileNetV2-
